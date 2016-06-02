@@ -1,4 +1,5 @@
-stribution / packaging
+# Distribution / packaging
+*.py[cod]
 .Python
 venv/
 bin/
